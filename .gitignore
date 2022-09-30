@@ -20,7 +20,7 @@
 *.rdx
 *.rdb
 *.knit.md
-*cache
+*.cache
 *.results
 
 # Other
